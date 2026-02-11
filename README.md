@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 5th Semester IT @ NIT Jalandhar  
+- 🎓 6th Semester IT @ NIT Jalandhar  
 - ⚛️ Focused on React & MERN Stack  
 - 📈 Passionate about Trading Psychology  
 - 🔥 Building real-world production projects  
@@ -75,8 +75,8 @@
 
 ## 🤝 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 📧 Email: bhuvankumarrr87@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/karajara-bhuvankumar
 - 🌐 Portfolio: Coming Soon
 
 ---
