@@ -1,78 +1,79 @@
-<h1 align="center">Hey 👋 I'm Bhuvan Kumar</h1>
-<h3 align="center">IT Undergraduate | MERN Stack Developer | Building Discipline in Code & Markets</h3>
+<h1 align="center">🚀 Bhuvan Kumar</h1>
+<h3 align="center">IT Undergraduate | MERN Stack Developer | Future Funded Trader</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Mastering+React+%26+MERN;Discipline+in+Code+%26+Markets;Consistency+Compounds." />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 5th Semester IT Student at NIT Jalandhar  
-- 💻 Focused on React, MERN Stack & Frontend Development  
-- 📈 Passionate about Trading Psychology & Risk Management  
-- 🧠 Strong believer in discipline > motivation  
-- 🔥 Currently building real-world projects to level up every month  
+- 🎓 5th Semester IT @ NIT Jalandhar  
+- ⚛️ Focused on React & MERN Stack  
+- 📈 Passionate about Trading Psychology  
+- 🔥 Building real-world production projects  
+- 🧠 Discipline > Motivation  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-- JavaScript
-- C++
-- HTML5
-- CSS3
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 
 ### ⚛️ Frontend
-- React.js
-- Tailwind CSS
-- Bootstrap
-- Responsive UI Design
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-### 🗄️ Backend
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
+### 🗄 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 
 ### 🧰 Tools
-- Git & GitHub
-- Postman
-- VS Code
-- Figma (Basic UI)
-
----
-
-## 📌 Current Focus
-
-- 🚀 Building production-ready MERN projects  
-- 📚 Strengthening Data Structures & Algorithms  
-- 🎯 Preparing for Frontend & Full Stack Internships  
-- 🧩 Writing cleaner, scalable, maintainable code  
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karajara-BhuvanKumar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karajara-BhuvanKumar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karajara-BhuvanKumar&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karajara-BhuvanKumar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏗️ Projects (More Coming Soon...)
+## 🐍 Contribution Snake (Watch My Commits Get Eaten)
 
-- 🔐 Full Stack Authentication System (MERN)
-- 🛒 E-commerce Frontend (React + API Integration)
-- 📊 Trading Journal Web App (In Progress)
-
-> I believe in finishing strong projects over starting many.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karajara-BhuvanKumar/Karajara-BhuvanKumar/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🏗 Current Projects
+
+- 🔐 Full Stack Authentication System (MERN)
+- 🛒 E-Commerce Frontend (React + API)
+- 📊 Trading Journal Web App
+- 🚀 Internship-Ready Portfolio Website
+
+> I build strong foundations. Not half-finished hype.
+
+---
+
+## 🤝 Connect With Me
 
 - 📧 Email: your-email@example.com
 - 💼 LinkedIn: https://linkedin.com/in/your-link
@@ -80,4 +81,4 @@
 
 ---
 
-<h3 align="center">"Consistency compounds. In code. In markets. In life."</h3>
+<h3 align="center">⚡ Consistency Compounds — In Code, In Markets, In Life ⚡</h3>
