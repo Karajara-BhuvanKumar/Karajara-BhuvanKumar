@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Karajara%20Bhuvan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Karajara%20Bhuvan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </h1>
 
 <h3 align="center">⚡ Full Stack Engineer | TypeScript | Next.js | DevOps ⚡</h3>
@@ -90,26 +90,10 @@
 
 ---
 
-## 🔥 Contribution Activity Graph
+## 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karajara-BhuvanKumar&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karajara-BhuvanKumar&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Karajara-BhuvanKumar/Karajara-BhuvanKumar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
