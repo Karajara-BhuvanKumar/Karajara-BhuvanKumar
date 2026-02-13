@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Bhuvan Kumar</h1>
-<h3 align="center">IT Undergraduate | MERN Stack Developer | Future Funded Trader</h3>
+<h3 align="center">IT Undergraduate | MERN Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Mastering+React+%26+MERN;Discipline+in+Code+%26+Markets;Consistency+Compounds." />
@@ -11,7 +11,6 @@
 
 - 🎓 6th Semester IT @ NIT Jalandhar  
 - ⚛️ Focused on React & MERN Stack  
-- 📈 Passionate about Trading Psychology  
 - 🔥 Building real-world production projects  
 - 🧠 Discipline > Motivation  
 
