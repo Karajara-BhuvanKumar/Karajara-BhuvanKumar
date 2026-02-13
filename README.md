@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhuvan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Karajara%20Bhuvan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </h1>
 
 <h3 align="center">⚡ Full Stack Engineer | TypeScript | Next.js | DevOps ⚡</h3>
