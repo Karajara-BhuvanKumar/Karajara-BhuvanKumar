@@ -117,6 +117,31 @@ A full-stack e-commerce platform covering product browsing, cart, and order flow
 <p align="center"><sub>🐍 Animated snake needs a one-time GitHub Actions setup — see the note below the README.</sub></p>
 
 ---
+name: generate snake animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
 
 ## 🤝 Connect With Me
 
